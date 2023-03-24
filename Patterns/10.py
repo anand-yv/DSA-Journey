@@ -1,3 +1,18 @@
+"""
+
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * *
+* * *
+* *
+*
+
+"""
+
+
 print()
 n = int(input("Enter the number : "))
 print()

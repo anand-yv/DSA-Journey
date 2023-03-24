@@ -1,3 +1,13 @@
+"""
+
+1
+0 1
+1 0 1
+0 1 0 1
+1 0 1 0 1
+
+"""
+
 print()
 n = int(input("Enter the number : "))
 print()
