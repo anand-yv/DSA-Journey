@@ -9,7 +9,7 @@ As I complete each topic, I plan to update the list to demonstrate my progress i
 <details>
   <summary>1. Learn the Basics</summary>
   <ul style="list-style-type:square">
-    <li>1.2 <a href="https://github.com/anand-yv/DSA-Journey/tree/master/Patterns">Patterns</a> </li>
+    <li>1.2 <a href="https://github.com/anand-yv/DSA-Journey/tree/master/Patterns">Buil-dup Logical Thinking (Patterns)</a> </li>
   <ul>
 </details>
 
