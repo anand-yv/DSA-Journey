@@ -6,10 +6,44 @@ I have created a section in my GitHub readme file dedicated to the topics I have
 
 As I complete each topic, I plan to update the list to demonstrate my progress in mastering DSA concepts. So far, I have completed the following topics from the Striver A2Z DSA Sheet:
 
-<details>
+> To navigate straight to the code, just click on the image.
+
+<!-- <details>
   <summary>1. Learn the Basics</summary>
   <ul style="list-style-type:square">
     <li>1.2 <a href="https://github.com/anand-yv/DSA-Journey/tree/master/Patterns">Buil-dup Logical Thinking (Patterns)</a> </li>
+  <ul>
+</details> -->
+    
+<details>
+  <summary>1. Learn the Basics</summary>
+  <ul>
+  <li><details><summary>1.2 <a href="https://github.com/anand-yv/DSA-Journey/tree/master/Patterns">Buil-dup Logical Thinking (Patterns)</a></summary>
+    <ul>
+      <li>Pattern 01</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/01.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_01.png"></a>
+      <li>Pattern 02</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/02.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_02.png"></a>
+      <li>Pattern 03</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/03.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_03.png"></a>
+      <li>Pattern 04</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/04.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_04.png"></a>
+      <li>Pattern 05</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/05.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_05.png"></a>
+      <li>Pattern 06</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/06.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_06.png"></a>
+      <li>Pattern 07</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/07.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_07.png"></a>
+      <li>Pattern 08</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/08.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_08.png"></a>
+      <li>Pattern 09</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/09(Diamond).py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_09.png"></a>
+      <li>Pattern 10</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/10.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_10.png"></a>
+      <li>Pattern 11</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/11.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_11.png"></a>
+      <li>Pattern 12</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/12.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_12.png"></a>
+      <li>Pattern 13</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/13.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_13.png"></a>
+      <li>Pattern 14</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/14.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_14.png"></a>
+      <li>Pattern 15</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/15.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_15.png"></a>
+      <li>Pattern 16</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/16.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_16.png"></a>
+      <li>Pattern 17</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/17.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_17.png"></a>
+      <li>Pattern 18</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/18.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_18.png"></a>
+      <li>Pattern 19</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/19.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_19.png"></a>
+      <li>Pattern 20</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/20.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_20.png"></a>
+      <li>Pattern 21</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/21.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_21.png"></a>
+      <li>Pattern 22</li><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/22.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_22.png"></a>
+    </ul>
+  </details></li>
   <ul>
 </details>
 
