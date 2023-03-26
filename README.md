@@ -19,7 +19,7 @@ As I complete each topic, I plan to update the list to demonstrate my progress i
   <summary>1. Learn the Basics</summary>
   <ul>
     
-  <li><details><summary>1.2 <a href="https://github.com/anand-yv/DSA-Journey/tree/master/Patterns">Buil-dup Logical Thinking (Patterns)</a></summary>
+  <li><details><summary>1.2 <a href="https://github.com/anand-yv/DSA-Journey/tree/master/Patterns">Build-Up Logical Thinking (Patterns)</a></summary>
   <table>
   <tr>
     <td># Pattern 01<br><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/01.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_01.png"></a></td>
