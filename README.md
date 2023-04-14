@@ -60,7 +60,7 @@ As I complete each topic, I plan to update the list to demonstrate my progress i
 
   <ul>1. <a href="https://github.com/anand-yv/DSA-Journey/blob/master/Know_Basic_Maths/01_count_digits.py">Count Digits</a></ul>
 
-  <ul>2. <a href="https://github.com/anand-yv/DSA-Journey/blob/master/Know_Basic_Maths/02_reverse_integer.py">Reverse a </a></ul>
+  <ul>2. <a href="https://github.com/anand-yv/DSA-Journey/blob/master/Know_Basic_Maths/02_reverse_integer.py">Reverse a Number</a></ul>
 
   <ul>3. <a href="https://github.com/anand-yv/DSA-Journey/blob/master/Know_Basic_Maths/03_check_palindrome.py">Check Palindrome</a></ul>
 
