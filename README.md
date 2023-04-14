@@ -19,7 +19,7 @@ As I complete each topic, I plan to update the list to demonstrate my progress i
   <summary>1. Learn the Basics</summary>
   <ul>
     
-  <li><details><summary>1.2 <a href="https://github.com/anand-yv/DSA-Journey/tree/master/Patterns">Build-Up Logical Thinking (Patterns)</a></summary>
+  <li><details><summary>1.2 Build-Up Logical Thinking (Patterns)</summary>
   <table>
   <tr>
     <td># Pattern 01<br><a href ="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/01.py"><img src="https://github.com/anand-yv/DSA-Journey/blob/master/Patterns/P_01.png"></a></td>
@@ -54,8 +54,27 @@ As I complete each topic, I plan to update the list to demonstrate my progress i
   </tr>
 </table>
   </details></li>
- 
-  <ul>
+
+ <li>
+ <details><summary>1.4 Know Basic Maths</summary>
+
+  <ul>1. <a href="https://github.com/anand-yv/DSA-Journey/blob/master/Know_Bas_Maths/01_count_digits.py">Count Digits</a></ul>
+
+  <ul>2. <a href="https://github.com/anand-yv/DSA-Journey/blob/master/Know_Basic_Maths/02_reverse_integer.py">Reverse a </a></ul>
+
+  <ul>3. <a href="https://github.com/anand-yv/DSA-Journey/blob/master/Know_Basic_Maths/03_check_palindrome.py">Check Palindrome</a></ul>
+
+  <ul>4. <a href="https://github.com/anand-yv/DSA-Journey/blob/master/Know_Basic_Maths/04_gcd_or_hcf.py">GCD or HCF</a></ul>
+
+  <ul>5. <a href="https://github.com/anand-yv/DSA-Journey/blob/master/Know_Basic_Maths/05_armstrong_numbers.py">Armstrong Numbers</a></ul>
+
+  <ul>6. <a href="https://github.com/anand-yv/DSA-Journey/blob/master/Know_Basic_Maths/06_print_all_divisors_gfg.py">Print All Divisors</a></ul>
+
+  <ul>7. <a href="https://github.com/anand-yv/DSA-Journey/blob/master/Know_Basic_Maths/07_prime_numbers.py">Check for Prime</a></ul>
+
+ </details></li>
+
+</ul>
 </details>
 
 
