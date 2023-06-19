@@ -6,11 +6,6 @@ I have created a section in my GitHub readme file dedicated to the topics I have
 
 As I complete each topic, I plan to update the list to demonstrate my progress in mastering DSA concepts. So far, I have completed the following topics from the Striver A2Z DSA Sheet:
 
-<style>
-  img{
-    width: 50px;
-  }
-</style>
 
 <!-- <details>
   <summary>1. Learn the Basics</summary>
