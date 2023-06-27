@@ -166,6 +166,8 @@ As I complete each topic, I plan to update the list to demonstrate my progress i
                 <li><a href="../03_Arrays/03.1 Easy/10_Missing Numbers.py">Missing Number</a></li>
                 <li><a href="../03_Arrays/03.1 Easy/11_Max Consecutives One.py">Max Consecutives One</a></li>
                 <li><a href="../03_Arrays/03.1 Easy/12_Appear Once.py">Find the number that appears once, and the other numbers twice</a></li>
+                <li><a href="../03_Arrays/03.1 Easy/13_Longest Subarray with given Sum K(Positives).py">Longest Subarray with given Sum K(Positives)</a></li>
+                <li><a href="../03_Arrays/03.1 Easy/14_Longest Subarray with sum K Postives and Negatives.py">Longest Subarray with sum K Postives and Negatives</a></li>
             </ol>
         </details>
     </ul>
