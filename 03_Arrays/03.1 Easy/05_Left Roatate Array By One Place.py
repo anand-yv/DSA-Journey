@@ -1,5 +1,5 @@
 
-# Left Rotate an array by on place
+# Left Rotate an array by one place
 
 # Brute Force
 class Solution:

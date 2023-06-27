@@ -20,7 +20,7 @@ class Solution:
 
     # Optimal Approach
     def lenOfLongSubarr(self, nums, n, k):
-        # Complete the function0
+        # Complete the function
         maxlen = 0
         sumo = 0
         preSumMap = {}

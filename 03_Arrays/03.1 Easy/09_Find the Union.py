@@ -1,5 +1,5 @@
 
-# Finding the Union -With Distict Elements
+# Finding the Union - With Distinct Elements
 
 class Solution:
 

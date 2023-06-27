@@ -1,5 +1,5 @@
 
-# Remove Duplicates from array
+# Remove Duplicates from Sorted Array
 
 class Solution:
 
