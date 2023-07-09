@@ -171,6 +171,16 @@ As I complete each topic, I plan to update the list to demonstrate my progress i
             </ol>
         </details>
     </ul>
+    <ul>
+        <details>
+            <summary>Medium</summary>
+            <ol>
+                <li><a href="../03_Arrays/03.2 Medium/01_Two Sum.py">Two Sum</a></li>
+                <li><a href="../03_Arrays/03.2 Medium/02_Sort an Array 0,1,2.py">Sort an Array 0,1,2</a></li>
+                <li><a href="../03_Arrays/03.2 Medium/03_Majority Element.py">Majority Element</a></li>
+            </ol>
+        </details>
+    </ul>
 </details>
 
 
