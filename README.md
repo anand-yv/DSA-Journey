@@ -178,6 +178,7 @@ As I complete each topic, I plan to update the list to demonstrate my progress i
                 <li><a href="../03_Arrays/03.2 Medium/01_Two Sum.py">Two Sum</a></li>
                 <li><a href="../03_Arrays/03.2 Medium/02_Sort an Array 0,1,2.py">Sort an Array 0,1,2</a></li>
                 <li><a href="../03_Arrays/03.2 Medium/03_Majority Element.py">Majority Element</a></li>
+                <li><a href="../03_Arrays/03.2 Medium/04_Maximum Subarray.py">Kadane’s Algorithm : Maximum Subarray Sum in an Array</a></li>
             </ol>
         </details>
     </ul>
