@@ -1,3 +1,5 @@
+
+
 def rearrangeArray(self, nums: list[int]) -> list[int]:
     pos, neg = [], []
     for num in nums:
