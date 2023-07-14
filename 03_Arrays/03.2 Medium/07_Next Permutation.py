@@ -2,7 +2,7 @@
 
 # NEXT PERMUTTAION - Optimal Approach
 class Solution:
-    def nextPermutation(self, nums: List[int]) -> None:
+    def nextPermutation(self, nums: list[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
         """

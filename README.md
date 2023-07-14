@@ -179,7 +179,6 @@ As I complete each topic, I plan to update the list to demonstrate my progress i
                 <li><a href="../03_Arrays/03.2 Medium/02_Sort an Array 0,1,2.py">Sort an Array 0,1,2</a></li>
                 <li><a href="../03_Arrays/03.2 Medium/03_Majority Element.py">Majority Element</a></li>
                 <li><a href="../03_Arrays/03.2 Medium/04_Maximum Subarray.py">Kadane’s Algorithm : Maximum Subarray Sum in an Array</a></li>
-                <li><a href="../03_Arrays/03.2 Medium/04_Maximum Subarray.py">Kadane’s Algorithm : Maximum Subarray Sum in an Array</a></li>
                 <li><a href="../03_Arrays/03.2 Medium/05_Best Time to Buy and Sell Stock.py">Best Time to Buy and Sell Stock</a></li>
                 <li><a href="../03_Arrays/03.2 Medium/06_Rearrange Array Elements by Sign.py">Rearrange Array Elements by Sign</a></li>
                 <li><a href="../03_Arrays/03.2 Medium/07_Next Permutation.py">Next Permutation</a></li>
